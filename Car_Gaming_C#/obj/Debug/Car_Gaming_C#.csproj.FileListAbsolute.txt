@@ -1,0 +1,10 @@
+D:\Projects\c#-Projects\Car_Gaming_C#\Car_Gaming_C#\bin\Debug\Car_Gaming_C#.exe.config
+D:\Projects\c#-Projects\Car_Gaming_C#\Car_Gaming_C#\bin\Debug\Car_Gaming_C#.exe
+D:\Projects\c#-Projects\Car_Gaming_C#\Car_Gaming_C#\bin\Debug\Car_Gaming_C#.pdb
+D:\Projects\c#-Projects\Car_Gaming_C#\Car_Gaming_C#\obj\Debug\Car_Gaming_C#.csproj.AssemblyReference.cache
+D:\Projects\c#-Projects\Car_Gaming_C#\Car_Gaming_C#\obj\Debug\Car_Gaming_C_.CarGaming.resources
+D:\Projects\c#-Projects\Car_Gaming_C#\Car_Gaming_C#\obj\Debug\Car_Gaming_C_.Properties.Resources.resources
+D:\Projects\c#-Projects\Car_Gaming_C#\Car_Gaming_C#\obj\Debug\Car_Gaming_C#.csproj.GenerateResource.cache
+D:\Projects\c#-Projects\Car_Gaming_C#\Car_Gaming_C#\obj\Debug\Car_Gaming_C#.csproj.CoreCompileInputs.cache
+D:\Projects\c#-Projects\Car_Gaming_C#\Car_Gaming_C#\obj\Debug\Car_Gaming_C#.exe
+D:\Projects\c#-Projects\Car_Gaming_C#\Car_Gaming_C#\obj\Debug\Car_Gaming_C#.pdb
